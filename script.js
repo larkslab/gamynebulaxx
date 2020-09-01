@@ -11,8 +11,8 @@ const sections = [
   " next to the rustling grasses of the San Bruno wilderness (a hill I repeatedly tell my coworkers that I" +
   " will disappear into one day after lunch.) With a ping I receive the latest installment from the Detroit" +
   " vertex, a recap of her week of whiskey, solo concert-going, and Fleabag season 2." +
-  " And then, as if it were an aside, “another nice detail of the week is that annie had a concert at her" +
-  " house & j sugarman stopped by and told erika that his new thing is polyamory but he kept saying polygamy instead" +
+  " And then, as if it were an aside, “another nice detail of the week is that allie had a concert at her" +
+  " house & he stopped by and told emma that his new thing is polyamory but he kept saying polygamy instead" +
   " of polyamory and that's all i have to say on that.”" +
   " My face goes still. I turn left and stare at the San Bruno for fifteen, reckoning. My coworker Margo catches" +
   " me dissociating into the dry anemone of that thirsty hill and attempts to throw me a buoy." +

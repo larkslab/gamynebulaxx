@@ -144,7 +144,7 @@ const sections = [
   " hearts and stab them between the earring posts and the lampshade fabric. I brought books just to watch them assimilate into his shelves." +
   " I left hats, cat ears, chapbooks, loose pages of poetry. “He has so many of my things there now,” I wrote sometime in September. “What am I trying to do, be unforgettable with materials?”",
 
-  "I aimlessly flipped through my boyfriend’s class notes and alighted upon a scrawl: “I don’t like when Verity touches other men. This might make me Bad.” It was separated from his hypothesis testing by a malformed circle.",
+  "I aimlessly flipped through my his class notes and alighted upon a scrawl: “I don’t like when Verity touches other men. This might make me Bad.” It was separated from his hypothesis testing by a malformed circle.",
 
   "I told Alison that he didn’t mind when she and I kissed and she said she was actually quite insulted by that.",
 
